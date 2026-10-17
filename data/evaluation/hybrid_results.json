@@ -1,0 +1,1542 @@
+[
+  {
+    "question_id": "TC001",
+    "question": "Who is the policyholder?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0048"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0009"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0071"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0017"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0060"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0021"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0023"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0022"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0020"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0015"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0001"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0008"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0012"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0018"
+      },
+      {
+        "rank": 16,
+        "chunk_id": "CH0007"
+      }
+    ]
+  },
+  {
+    "question_id": "TC002",
+    "question": "What is the policy type?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0019"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0002"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0024"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0048"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0008"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0036"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0045"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0018"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0054"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0009"
+      },
+      {
+        "rank": 16,
+        "chunk_id": "CH0017"
+      }
+    ]
+  },
+  {
+    "question_id": "TC003",
+    "question": "What is the base sum insured under the Optima Secure policy?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0045"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0003"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0008"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0052"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0018"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0069"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0010"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0071"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0065"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0017"
+      },
+      {
+        "rank": 16,
+        "chunk_id": "CH0067"
+      },
+      {
+        "rank": 17,
+        "chunk_id": "CH0058"
+      }
+    ]
+  },
+  {
+    "question_id": "TC004",
+    "question": "Is the Optima Secure policy individual or family floater?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0003"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0038"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0019"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0002"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0045"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0001"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0017"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0010"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0007"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0036"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0012"
+      }
+    ]
+  },
+  {
+    "question_id": "TC005",
+    "question": "Who are the insured family members and how are they related to the policyholder?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0017"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0010"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0085"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0001"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0002"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0018"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0008"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0009"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0045"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0025"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0014"
+      }
+    ]
+  },
+  {
+    "question_id": "TC006",
+    "question": "What is Kella Deepak Kumar's date of birth?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0012"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0049"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0010"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0040"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0011"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0001"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0042"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0072"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0066"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0041"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0026"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0048"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0007"
+      }
+    ]
+  },
+  {
+    "question_id": "TC007",
+    "question": "What is the policy period?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0019"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0024"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0006"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0048"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0031"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0002"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0033"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0038"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0018"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 16,
+        "chunk_id": "CH0017"
+      },
+      {
+        "rank": 17,
+        "chunk_id": "CH0014"
+      }
+    ]
+  },
+  {
+    "question_id": "TC008",
+    "question": "What is the total premium for the policy?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0032"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0012"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0045"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0018"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0048"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0008"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0052"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0065"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0017"
+      }
+    ]
+  },
+  {
+    "question_id": "TC009",
+    "question": "What is the waiting period for pre-existing diseases under the policy wording?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0006"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0021"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0023"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0058"
+      }
+    ]
+  },
+  {
+    "question_id": "TC010",
+    "question": "According to the renewal continuity benefits table, how much pre-existing-disease waiting period remains for each insured person?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0002"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0043"
+      }
+    ]
+  },
+  {
+    "question_id": "TC011",
+    "question": "What is the initial waiting period for illnesses?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0040"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0080"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0014"
+      }
+    ]
+  },
+  {
+    "question_id": "TC012",
+    "question": "What is the specific waiting period for listed diseases or procedures?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0078"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0054"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0071"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0057"
+      }
+    ]
+  },
+  {
+    "question_id": "TC013",
+    "question": "How long are pre-hospitalization expenses covered?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0085"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0073"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0056"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0071"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0052"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0008"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0069"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0078"
+      }
+    ]
+  },
+  {
+    "question_id": "TC014",
+    "question": "How long are post-hospitalization expenses covered?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0085"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0073"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0056"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0071"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0069"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0078"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0067"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 16,
+        "chunk_id": "CH0002"
+      },
+      {
+        "rank": 17,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 18,
+        "chunk_id": "CH0031"
+      }
+    ]
+  },
+  {
+    "question_id": "TC015",
+    "question": "What is the room-rent coverage under Optima Secure?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0003"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0025"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0069"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0055"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0010"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0086"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0056"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0065"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0085"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0071"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0012"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 16,
+        "chunk_id": "CH0051"
+      }
+    ]
+  },
+  {
+    "question_id": "TC016",
+    "question": "What is the time limit for a decision on cashless preauthorization?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0078"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0066"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0006"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0038"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0060"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0059"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0053"
+      }
+    ]
+  },
+  {
+    "question_id": "TC017",
+    "question": "Within how much time should cashless final-bill authorization be provided?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0066"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0078"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0060"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0059"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0031"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0070"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0006"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0027"
+      }
+    ]
+  },
+  {
+    "question_id": "TC018",
+    "question": "What is the stated turnaround time for reimbursement claim settlement?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0078"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0011"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0066"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0060"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0006"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0031"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0043"
+      }
+    ]
+  },
+  {
+    "question_id": "TC019",
+    "question": "Can the policyholder cancel the policy during the free-look period, and how long is that period?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0019"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0024"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0038"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0006"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0031"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0033"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0002"
+      }
+    ]
+  },
+  {
+    "question_id": "TC020",
+    "question": "How far before renewal should an application for portability be made?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0002"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0043"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0057"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0034"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0078"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0042"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0031"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0080"
+      }
+    ]
+  },
+  {
+    "question_id": "TC021",
+    "question": "After how many continuous months does the policy's moratorium period complete?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0031"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0006"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0033"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0039"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0038"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0019"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0024"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0053"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0027"
+      }
+    ]
+  },
+  {
+    "question_id": "TC022",
+    "question": "Does the policy schedule show Overseas Travel Secure as opted?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0045"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0081"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0003"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0086"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0002"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0004"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0034"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0019"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0030"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0024"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0008"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0013"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0009"
+      }
+    ]
+  },
+  {
+    "question_id": "TC023",
+    "question": "What is the policyholder's blood group?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0048"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0009"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0071"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0001"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0060"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0017"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0021"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0023"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0005"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0026"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0012"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0010"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0022"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0011"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0020"
+      },
+      {
+        "rank": 16,
+        "chunk_id": "CH0015"
+      }
+    ]
+  },
+  {
+    "question_id": "TC024",
+    "question": "Which hospital did the policyholder visit for their most recent treatment?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "CH0056"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "CH0063"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "CH0085"
+      },
+      {
+        "rank": 4,
+        "chunk_id": "CH0026"
+      },
+      {
+        "rank": 5,
+        "chunk_id": "CH0084"
+      },
+      {
+        "rank": 6,
+        "chunk_id": "CH0046"
+      },
+      {
+        "rank": 7,
+        "chunk_id": "CH0075"
+      },
+      {
+        "rank": 8,
+        "chunk_id": "CH0070"
+      },
+      {
+        "rank": 9,
+        "chunk_id": "CH0074"
+      },
+      {
+        "rank": 10,
+        "chunk_id": "CH0081"
+      },
+      {
+        "rank": 11,
+        "chunk_id": "CH0057"
+      },
+      {
+        "rank": 12,
+        "chunk_id": "CH0060"
+      },
+      {
+        "rank": 13,
+        "chunk_id": "CH0058"
+      },
+      {
+        "rank": 14,
+        "chunk_id": "CH0027"
+      },
+      {
+        "rank": 15,
+        "chunk_id": "CH0014"
+      },
+      {
+        "rank": 16,
+        "chunk_id": "CH0010"
+      },
+      {
+        "rank": 17,
+        "chunk_id": "CH0011"
+      },
+      {
+        "rank": 18,
+        "chunk_id": "CH0067"
+      },
+      {
+        "rank": 19,
+        "chunk_id": "CH0006"
+      },
+      {
+        "rank": 20,
+        "chunk_id": "CH0031"
+      }
+    ]
+  }
+]

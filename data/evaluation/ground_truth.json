@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "description": "Provisional chunk-level relevance judgments for HDFC ERGO RAG evaluation.",
+    "rank_basis": "Candidate ranks in exhaustive_candidates.json.",
+    "important": "Most ranks are from the user's supplied list and still require content verification."
+  },
+  "test_cases": {
+    "TC001": {
+      "relevant_ranks": [
+        7,
+        10,
+        12,
+        49
+      ],
+      "answerable": true
+    },
+    "TC002": {
+      "relevant_ranks": [
+        6
+      ],
+      "answerable": true
+    },
+    "TC003": {
+      "relevant_ranks": [
+        5
+      ],
+      "answerable": true
+    },
+    "TC004": {
+      "relevant_ranks": [
+        9
+      ],
+      "answerable": true
+    },
+    "TC005": {
+      "relevant_ranks": [
+        11,
+        16
+      ],
+      "answerable": true
+    },
+    "TC006": {
+      "relevant_ranks": [
+        3,
+        11
+      ],
+      "answerable": true
+    },
+    "TC007": {
+      "relevant_ranks": [
+        32,
+        40
+      ],
+      "answerable": true
+    },
+    "TC008": {
+      "relevant_ranks": [
+        11,
+        27,
+        32
+      ],
+      "answerable": true
+    },
+    "TC009": {
+      "relevant_ranks": [
+        1,
+        56
+      ],
+      "answerable": true,
+      "note": "Includes duplicate answer-bearing chunk at rank 56 found during prior review."
+    },
+    "TC010": {
+      "relevant_ranks": [
+        18
+      ],
+      "answerable": true,
+      "note": "Rank 18 contains the complete table; rank 30 is only a partial fragment under the strict whole-answer criterion."
+    },
+    "TC011": {
+      "relevant_ranks": [
+        1
+      ],
+      "answerable": true
+    },
+    "TC012": {
+      "relevant_ranks": [
+        1
+      ],
+      "answerable": true
+    },
+    "TC013": {
+      "relevant_ranks": [
+        1
+      ],
+      "answerable": true
+    },
+    "TC014": {
+      "relevant_ranks": [
+        2
+      ],
+      "answerable": true
+    },
+    "TC015": {
+      "relevant_ranks": [
+        2
+      ],
+      "answerable": true
+    },
+    "TC016": {
+      "relevant_ranks": [
+        1,
+        2,
+        3
+      ],
+      "answerable": true
+    },
+    "TC017": {
+      "relevant_ranks": [
+        1,
+        2,
+        3
+      ],
+      "answerable": true
+    },
+    "TC018": {
+      "relevant_ranks": [
+        1,
+        2,
+        4
+      ],
+      "answerable": true
+    },
+    "TC019": {
+      "relevant_ranks": [
+        1,
+        2,
+        3
+      ],
+      "answerable": true
+    },
+    "TC020": {
+      "relevant_ranks": [
+        1,
+        2
+      ],
+      "answerable": true
+    },
+    "TC021": {
+      "relevant_ranks": [
+        1,
+        2
+      ],
+      "answerable": true
+    },
+    "TC022": {
+      "relevant_ranks": [],
+      "answerable": true,
+      "note": "The schedule explicitly says 'No' for Overseas Travel Secure, but no candidate rank was supplied. Find and label its supporting chunk."
+    },
+    "TC023": {
+      "relevant_ranks": [],
+      "answerable": false
+    },
+    "TC024": {
+      "relevant_ranks": [],
+      "answerable": false
+    }
+  }
+}

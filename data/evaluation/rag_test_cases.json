@@ -1,0 +1,225 @@
+[
+  {
+    "id": "TC001",
+    "question": "Who is the policyholder?",
+    "expected_answer": "The policyholder is Mr Kella Siva Prasad.",
+    "relevant_pages": [
+      1,
+      2
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC002",
+    "question": "What is the policy type?",
+    "expected_answer": "The policy type is Family Floater.",
+    "relevant_pages": [
+      2
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC003",
+    "question": "What is the base sum insured under the Optima Secure policy?",
+    "expected_answer": "The base sum insured is ₹10,00,000 (₹1,000,000).",
+    "relevant_pages": [
+      2,
+      4
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC004",
+    "question": "Is the Optima Secure policy individual or family floater?",
+    "expected_answer": "It is a Family Floater policy.",
+    "relevant_pages": [
+      2,
+      6
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC005",
+    "question": "Who are the insured family members and how are they related to the policyholder?",
+    "expected_answer": "Kella Siva Prasad is the policyholder (Self); Kella Varalakshmi is the spouse; Kella Deepak Kumar is the son; and Kella Lakshmi Sri Harsha is the son.",
+    "relevant_pages": [
+      1,
+      2,
+      5
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC006",
+    "question": "What is Kella Deepak Kumar's date of birth?",
+    "expected_answer": "Kella Deepak Kumar's date of birth is 14/11/2003.",
+    "relevant_pages": [
+      1,
+      2,
+      5
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC007",
+    "question": "What is the policy period?",
+    "expected_answer": "The policy period is from 02/10/2026 to 01/10/2027.",
+    "relevant_pages": [
+      2
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC008",
+    "question": "What is the total premium for the policy?",
+    "expected_answer": "The total premium is ₹33,270.",
+    "relevant_pages": [
+      1,
+      3
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC009",
+    "question": "What is the waiting period for pre-existing diseases under the policy wording?",
+    "expected_answer": "Pre-existing diseases are covered after 36 months, subject to the policy terms and conditions.",
+    "relevant_pages": [
+      11
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC010",
+    "question": "According to the renewal continuity benefits table, how much pre-existing-disease waiting period remains for each insured person?",
+    "expected_answer": "The schedule lists 2 years of remaining pre-existing-disease waiting period for each of the four insured persons.",
+    "relevant_pages": [
+      2
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC011",
+    "question": "What is the initial waiting period for illnesses?",
+    "expected_answer": "The initial waiting period is 30 days for all illnesses; the document says this does not apply in cases of continuous renewal or accidents.",
+    "relevant_pages": [
+      11
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC012",
+    "question": "What is the specific waiting period for listed diseases or procedures?",
+    "expected_answer": "The specific waiting period is 24 months for listed diseases or procedures, except for claims arising from an accident.",
+    "relevant_pages": [
+      11
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC013",
+    "question": "How long are pre-hospitalization expenses covered?",
+    "expected_answer": "Pre-hospitalization expenses are covered for 60 days.",
+    "relevant_pages": [
+      4,
+      6
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC014",
+    "question": "How long are post-hospitalization expenses covered?",
+    "expected_answer": "Post-hospitalization expenses are covered within 180 days from the date of discharge.",
+    "relevant_pages": [
+      4,
+      6
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC015",
+    "question": "What is the room-rent coverage under Optima Secure?",
+    "expected_answer": "Room rent is covered at actuals.",
+    "relevant_pages": [
+      4
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC016",
+    "question": "What is the time limit for a decision on cashless preauthorization?",
+    "expected_answer": "The decision on cashless preauthorization is to be provided within 1 hour of receiving the request.",
+    "relevant_pages": [
+      12
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC017",
+    "question": "Within how much time should cashless final-bill authorization be provided?",
+    "expected_answer": "Cashless final-bill authorization is to be provided within 3 hours of receiving the hospital's discharge authorization request.",
+    "relevant_pages": [
+      12
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC018",
+    "question": "What is the stated turnaround time for reimbursement claim settlement?",
+    "expected_answer": "The stated turnaround time is 30 days from receipt of the last necessary document. In cases of internal verification, the final stand is to be confirmed within 45 days from receipt of that document.",
+    "relevant_pages": [
+      12,
+      16
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC019",
+    "question": "Can the policyholder cancel the policy during the free-look period, and how long is that period?",
+    "expected_answer": "The document states a 30-day free-look period from the beginning of the policy; it also says the free-look period applies to new individual health policies, not renewals or policies at the time of porting or migration.",
+    "relevant_pages": [
+      13
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC020",
+    "question": "How far before renewal should an application for portability be made?",
+    "expected_answer": "The document says portability should be applied for at least 45 days before, but not earlier than 60 days from, the policy renewal date.",
+    "relevant_pages": [
+      14
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC021",
+    "question": "After how many continuous months does the policy's moratorium period complete?",
+    "expected_answer": "The policy document states 60 continuous months of coverage for the moratorium period. It notes that an enhanced sum insured has its own 60-month period for the enhanced limit.",
+    "relevant_pages": [
+      14
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC022",
+    "question": "Does the policy schedule show Overseas Travel Secure as opted?",
+    "expected_answer": "No. The policy schedule shows Overseas Travel Secure as 'No'.",
+    "relevant_pages": [
+      2
+    ],
+    "answerable": true
+  },
+  {
+    "id": "TC023",
+    "question": "What is the policyholder's blood group?",
+    "expected_answer": "The provided policy document does not state the policyholder's blood group.",
+    "relevant_pages": [],
+    "answerable": false
+  },
+  {
+    "id": "TC024",
+    "question": "Which hospital did the policyholder visit for their most recent treatment?",
+    "expected_answer": "The provided policy document does not identify a hospital visited for a most recent treatment.",
+    "relevant_pages": [],
+    "answerable": false
+  }
+]

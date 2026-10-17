@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+python-dotenv
+langchain-ollama
+pydantic
+langchain-community
+pypdf
+langchain-pymupdf4llm
+langchain-chroma
+sentence-transformers
+rank_bm25
